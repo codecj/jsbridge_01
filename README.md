@@ -1,0 +1,1 @@
+this is my first npm_package,thank you use it

@@ -1,0 +1,22 @@
+{
+  "name": "jsbridge_01",
+  "version": "1.0.1",
+  "description": "this is my first npm_package,thank you use it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codecj/taozi.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "https://github.com/codecj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codecj/taozi/issues"
+  },
+  "homepage": "https://github.com/codecj/taozi#readme"
+}
